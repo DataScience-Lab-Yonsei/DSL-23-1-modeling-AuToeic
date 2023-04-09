@@ -7,8 +7,7 @@
 
 ## Overview
 ---
-Presentation PDF (HairyPotatoes_발표자료.pdf)  
-Presentation Youtube (링크 삽입)
+
 
 ![05](https://user-images.githubusercontent.com/121658932/230769569-669cdbcc-230c-4b0f-9273-5f721c48ea35.jpg)
 
